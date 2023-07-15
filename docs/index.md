@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Zach Kayner's Resume
 ---
-# Brigham Young
+# Zach Kayner
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
